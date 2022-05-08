@@ -1,7 +1,7 @@
 # ePortfolio
 Evidence is provided here of the following objectives:
 1. Explain communication concepts and strategies
-- [Evidence](Communicate effectively in a professional context.docx) for communication concepts and strategies
+- [Evidence](https://github.com/seum14/ePortfolio/blob/e8a2dab15d5a07f648ca400566c1202cffda4167/Communicate%20effectively%20in%20a%20professional%20context.docx) for communication concepts and strategies
 2. Show confidence and skills in oral communications and presentations
 - [Evidence] of showing confidence and skills in oral communications and presentations
 3. Work effectively as part of a team

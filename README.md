@@ -1,7 +1,7 @@
 # ePortfolio
 Evidence is provided here of the following objectives:
 1. Explain communication concepts and strategies
--As a 
+- As a 
 COIT11239 student I learned communication concepts and strategies. Here is a discussion about [communication concepts and strategies](https://github.com/seum14/ePortfolio/blob/37eb24d3d6b58893cb1710035b3b89afc95094e9/Communication%20Concepts%20and%20Strategies.docx).
 2. Show confidence and skills in oral communications and presentations
 - As a 

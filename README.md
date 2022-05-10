@@ -15,4 +15,4 @@ COIT11239 student I learned how to communicate effectively in a professional con
 5. Define and demonstrate conflict management and resolution strategies.
 - As a 
 COIT11239 student I learned how to define and demonstrate conflict management and resolution strategies.Here is a discussion about how to [define and demonstrate conflict management and resolution strategies](https://github.com/seum14/ePortfolio/blob/37eb24d3d6b58893cb1710035b3b89afc95094e9/Define%20and%20demonstrate%20conflict%20management%20and%20resolution%20strategies.docx).
-https://github.com/seum14/ePortfolio
+# https://github.com/seum14/ePortfolio
